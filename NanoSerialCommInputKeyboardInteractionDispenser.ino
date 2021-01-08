@@ -1,3 +1,6 @@
+//created by Fabiolus 2021/01/08
+//the_fabiolous@hotmail.com
+
 String UserItem;
 int  UserItemCount;
 String UserConfirmation;
