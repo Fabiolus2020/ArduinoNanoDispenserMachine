@@ -1,3 +1,6 @@
+//created by Fabiolus 2021/01/08
+//the_fabiolous@hotmail.com
+
 # ArduinoNanoDispenserMachine
 In this project I am trying to experiment using my own functions and using them in my main program
 
